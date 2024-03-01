@@ -1,0 +1,6 @@
+Country: Rwanda
+Region: Africa
+Subregion: Eastern Africa
+LatLng: -2.0,30.0
+Area: 26338
+Population: 12952209

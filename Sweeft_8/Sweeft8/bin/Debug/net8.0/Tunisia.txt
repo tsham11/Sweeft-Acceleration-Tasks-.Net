@@ -1,0 +1,6 @@
+Country: Tunisia
+Region: Africa
+Subregion: Northern Africa
+LatLng: 34.0,9.0
+Area: 163610
+Population: 11818618

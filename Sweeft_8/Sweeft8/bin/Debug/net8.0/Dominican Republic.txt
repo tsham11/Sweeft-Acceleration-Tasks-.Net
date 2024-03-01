@@ -1,0 +1,6 @@
+Country: Dominican Republic
+Region: Americas
+Subregion: Caribbean
+LatLng: 19.0,-70.66666666
+Area: 48671
+Population: 10847904

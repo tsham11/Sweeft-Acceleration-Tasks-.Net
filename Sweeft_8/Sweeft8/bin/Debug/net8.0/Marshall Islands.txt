@@ -1,0 +1,6 @@
+Country: Marshall Islands
+Region: Oceania
+Subregion: Micronesia
+LatLng: 9.0,168.0
+Area: 181
+Population: 59194

@@ -1,0 +1,6 @@
+Country: Ireland
+Region: Europe
+Subregion: Northern Europe
+LatLng: 53.0,-8.0
+Area: 70273
+Population: 4994724

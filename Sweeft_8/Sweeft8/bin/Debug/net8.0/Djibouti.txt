@@ -1,0 +1,6 @@
+Country: Djibouti
+Region: Africa
+Subregion: Eastern Africa
+LatLng: 11.5,43.0
+Area: 23200
+Population: 988002

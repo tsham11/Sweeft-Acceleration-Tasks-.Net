@@ -1,0 +1,6 @@
+Country: Botswana
+Region: Africa
+Subregion: Southern Africa
+LatLng: -22.0,24.0
+Area: 582000
+Population: 2351625

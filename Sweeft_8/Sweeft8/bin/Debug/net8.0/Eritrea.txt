@@ -1,0 +1,6 @@
+Country: Eritrea
+Region: Africa
+Subregion: Eastern Africa
+LatLng: 15.0,39.0
+Area: 117600
+Population: 5352000

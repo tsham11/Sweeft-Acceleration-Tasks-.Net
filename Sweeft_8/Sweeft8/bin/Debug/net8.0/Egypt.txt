@@ -1,0 +1,6 @@
+Country: Egypt
+Region: Africa
+Subregion: Northern Africa
+LatLng: 27.0,30.0
+Area: 1002450
+Population: 102334403

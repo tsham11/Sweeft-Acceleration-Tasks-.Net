@@ -1,0 +1,6 @@
+Country: Guinea-Bissau
+Region: Africa
+Subregion: Western Africa
+LatLng: 12.0,-15.0
+Area: 36125
+Population: 1967998

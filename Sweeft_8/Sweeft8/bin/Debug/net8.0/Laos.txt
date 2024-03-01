@@ -1,0 +1,6 @@
+Country: Laos
+Region: Asia
+Subregion: South-Eastern Asia
+LatLng: 18.0,105.0
+Area: 236800
+Population: 7275556

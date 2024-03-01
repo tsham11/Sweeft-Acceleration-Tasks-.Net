@@ -1,0 +1,6 @@
+Country: Brazil
+Region: Americas
+Subregion: South America
+LatLng: -10.0,-55.0
+Area: 8515767
+Population: 212559409

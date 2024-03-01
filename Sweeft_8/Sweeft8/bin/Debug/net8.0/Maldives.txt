@@ -1,0 +1,6 @@
+Country: Maldives
+Region: Asia
+Subregion: Southern Asia
+LatLng: 3.25,73.0
+Area: 300
+Population: 540542

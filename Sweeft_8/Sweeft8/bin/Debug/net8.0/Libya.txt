@@ -1,0 +1,6 @@
+Country: Libya
+Region: Africa
+Subregion: Northern Africa
+LatLng: 25.0,17.0
+Area: 1759540
+Population: 6871287

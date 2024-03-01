@@ -1,0 +1,6 @@
+Country: Papua New Guinea
+Region: Oceania
+Subregion: Melanesia
+LatLng: -6.0,147.0
+Area: 462840
+Population: 8947027

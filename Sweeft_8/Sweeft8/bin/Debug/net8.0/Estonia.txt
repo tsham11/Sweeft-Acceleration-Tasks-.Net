@@ -1,0 +1,6 @@
+Country: Estonia
+Region: Europe
+Subregion: Northern Europe
+LatLng: 59.0,26.0
+Area: 45227
+Population: 1331057

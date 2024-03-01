@@ -1,0 +1,6 @@
+Country: Belarus
+Region: Europe
+Subregion: Eastern Europe
+LatLng: 53.0,28.0
+Area: 207600
+Population: 9398861

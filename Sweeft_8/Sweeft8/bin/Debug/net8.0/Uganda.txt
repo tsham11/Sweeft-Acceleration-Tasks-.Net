@@ -1,0 +1,6 @@
+Country: Uganda
+Region: Africa
+Subregion: Eastern Africa
+LatLng: 1.0,32.0
+Area: 241550
+Population: 45741000

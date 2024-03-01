@@ -1,0 +1,6 @@
+Country: China
+Region: Asia
+Subregion: Eastern Asia
+LatLng: 35.0,105.0
+Area: 9706961
+Population: 1402112000

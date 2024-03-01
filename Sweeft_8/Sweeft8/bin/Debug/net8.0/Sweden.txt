@@ -1,0 +1,6 @@
+Country: Sweden
+Region: Europe
+Subregion: Northern Europe
+LatLng: 62.0,15.0
+Area: 450295
+Population: 10353442

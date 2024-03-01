@@ -1,0 +1,6 @@
+Country: Republic of the Congo
+Region: Africa
+Subregion: Middle Africa
+LatLng: -1.0,15.0
+Area: 342000
+Population: 5657000

@@ -1,0 +1,6 @@
+Country: Vanuatu
+Region: Oceania
+Subregion: Melanesia
+LatLng: -16.0,167.0
+Area: 12189
+Population: 307150

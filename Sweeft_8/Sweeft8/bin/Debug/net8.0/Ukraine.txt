@@ -1,0 +1,6 @@
+Country: Ukraine
+Region: Europe
+Subregion: Eastern Europe
+LatLng: 49.0,32.0
+Area: 603500
+Population: 44134693

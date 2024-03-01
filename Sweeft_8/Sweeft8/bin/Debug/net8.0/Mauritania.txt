@@ -1,0 +1,6 @@
+Country: Mauritania
+Region: Africa
+Subregion: Western Africa
+LatLng: 20.0,-12.0
+Area: 1030700
+Population: 4649660

@@ -1,0 +1,6 @@
+Country: Tanzania
+Region: Africa
+Subregion: Eastern Africa
+LatLng: -6.0,35.0
+Area: 945087
+Population: 59734213

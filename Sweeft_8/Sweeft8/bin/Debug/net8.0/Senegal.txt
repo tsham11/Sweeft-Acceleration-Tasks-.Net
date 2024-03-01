@@ -1,0 +1,6 @@
+Country: Senegal
+Region: Africa
+Subregion: Western Africa
+LatLng: 14.0,-14.0
+Area: 196722
+Population: 16743930

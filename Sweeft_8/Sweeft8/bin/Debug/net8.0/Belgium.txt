@@ -1,0 +1,6 @@
+Country: Belgium
+Region: Europe
+Subregion: Western Europe
+LatLng: 50.83333333,4.0
+Area: 30528
+Population: 11555997

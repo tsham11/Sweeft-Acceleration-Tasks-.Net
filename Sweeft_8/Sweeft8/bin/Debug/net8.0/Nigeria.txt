@@ -1,0 +1,6 @@
+Country: Nigeria
+Region: Africa
+Subregion: Western Africa
+LatLng: 10.0,8.0
+Area: 923768
+Population: 206139587

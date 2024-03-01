@@ -1,0 +1,14 @@
+D:\.Net\Sweeft\Sweeft8\bin\Debug\net8.0\Sweeft8.exe
+D:\.Net\Sweeft\Sweeft8\bin\Debug\net8.0\Sweeft8.deps.json
+D:\.Net\Sweeft\Sweeft8\bin\Debug\net8.0\Sweeft8.runtimeconfig.json
+D:\.Net\Sweeft\Sweeft8\bin\Debug\net8.0\Sweeft8.dll
+D:\.Net\Sweeft\Sweeft8\bin\Debug\net8.0\Sweeft8.pdb
+D:\.Net\Sweeft\Sweeft8\obj\Debug\net8.0\Sweeft8.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Sweeft\Sweeft8\obj\Debug\net8.0\Sweeft8.AssemblyInfoInputs.cache
+D:\.Net\Sweeft\Sweeft8\obj\Debug\net8.0\Sweeft8.AssemblyInfo.cs
+D:\.Net\Sweeft\Sweeft8\obj\Debug\net8.0\Sweeft8.csproj.CoreCompileInputs.cache
+D:\.Net\Sweeft\Sweeft8\obj\Debug\net8.0\Sweeft8.dll
+D:\.Net\Sweeft\Sweeft8\obj\Debug\net8.0\refint\Sweeft8.dll
+D:\.Net\Sweeft\Sweeft8\obj\Debug\net8.0\Sweeft8.pdb
+D:\.Net\Sweeft\Sweeft8\obj\Debug\net8.0\Sweeft8.genruntimeconfig.cache
+D:\.Net\Sweeft\Sweeft8\obj\Debug\net8.0\ref\Sweeft8.dll

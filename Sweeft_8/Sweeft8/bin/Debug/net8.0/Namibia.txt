@@ -1,0 +1,6 @@
+Country: Namibia
+Region: Africa
+Subregion: Southern Africa
+LatLng: -22.0,17.0
+Area: 825615
+Population: 2540916

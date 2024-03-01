@@ -1,0 +1,6 @@
+Country: Somalia
+Region: Africa
+Subregion: Eastern Africa
+LatLng: 10.0,49.0
+Area: 637657
+Population: 15893219

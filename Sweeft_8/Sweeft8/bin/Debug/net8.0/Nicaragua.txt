@@ -1,0 +1,6 @@
+Country: Nicaragua
+Region: Americas
+Subregion: Central America
+LatLng: 13.0,-85.0
+Area: 130373
+Population: 6624554

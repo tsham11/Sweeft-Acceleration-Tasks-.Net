@@ -1,0 +1,6 @@
+Country: Cyprus
+Region: Europe
+Subregion: Southern Europe
+LatLng: 35.0,33.0
+Area: 9251
+Population: 1207361

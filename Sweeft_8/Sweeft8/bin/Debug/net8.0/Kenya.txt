@@ -1,0 +1,6 @@
+Country: Kenya
+Region: Africa
+Subregion: Eastern Africa
+LatLng: 1.0,38.0
+Area: 580367
+Population: 53771300

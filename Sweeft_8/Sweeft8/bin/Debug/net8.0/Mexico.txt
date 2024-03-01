@@ -1,0 +1,6 @@
+Country: Mexico
+Region: Americas
+Subregion: North America
+LatLng: 23.0,-102.0
+Area: 1964375
+Population: 128932753

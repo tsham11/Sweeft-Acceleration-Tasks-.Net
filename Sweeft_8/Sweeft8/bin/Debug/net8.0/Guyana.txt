@@ -1,0 +1,6 @@
+Country: Guyana
+Region: Americas
+Subregion: South America
+LatLng: 5.0,-59.0
+Area: 214969
+Population: 786559

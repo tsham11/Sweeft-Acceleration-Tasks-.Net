@@ -1,0 +1,6 @@
+Country: Canada
+Region: Americas
+Subregion: North America
+LatLng: 60.0,-95.0
+Area: 9984670
+Population: 38005238

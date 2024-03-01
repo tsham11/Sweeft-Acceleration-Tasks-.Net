@@ -1,0 +1,6 @@
+Country: Panama
+Region: Americas
+Subregion: Central America
+LatLng: 9.0,-80.0
+Area: 75417
+Population: 4314768

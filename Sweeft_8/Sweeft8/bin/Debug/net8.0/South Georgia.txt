@@ -1,0 +1,6 @@
+Country: South Georgia
+Region: Antarctic
+Subregion: Unknown
+LatLng: -54.5,-37.0
+Area: 3903
+Population: 30
